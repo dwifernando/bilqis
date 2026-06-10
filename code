@@ -696,14 +696,14 @@ const unsigned char epd_bitmap_image__10_ [] PROGMEM = {
 // Array of all bitmaps for convenience. (Total bytes used to store images in PROGMEM = 1040)
 const int epd_bitmap_allArray_LEN = 10;
 const unsigned char* epd_bitmap_allArray[10] = {
-epd_bitmap_image__1_
-epd_bitmap_image__2_
-epd_bitmap_image__3_
-epd_bitmap_image__4_
-epd_bitmap_image__5_
-epd_bitmap_image__6_
-epd_bitmap_image__7_
-epd_bitmap_image__8_
-epd_bitmap_image__9_
+epd_bitmap_image__1_,
+epd_bitmap_image__2_,
+epd_bitmap_image__3_,
+epd_bitmap_image__4_,
+epd_bitmap_image__5_,
+epd_bitmap_image__6_,
+epd_bitmap_image__7_,
+epd_bitmap_image__8_,
+epd_bitmap_image__9_,
 epd_bitmap_image__10_
 };
